@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" alt="CROUStillant Logo"/>
+<img src="../assets/logo.png" alt="CROUStillant Logo"/>
   
 # CROUStillant
 CROUStillant est un projet qui a pour but de fournir les menus des restaurants universitaires en France et en Outre-Mer. 
@@ -32,7 +32,7 @@ Beaucoup de restaurant universitaires sont séparés en plusieurs restaurants et
 
 CROUStillant récupère les menus des restaurants universitaires en France et en Outre-Mer, stocke les données puis les rend accessibles via une API et un BOT Discord.
 
-<img src="./assets/preview.png" alt="CROUStillant Preview"/>
+<img src="../assets/preview.png" alt="CROUStillant Preview"/>
 
 # 📃 • Crédits
 
