@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./assets/logo.png" alt="CROUStillant Logo"/>
+<img src="https://raw.githubusercontent.com/CROUStillant-Developpement/CROUStillantAssets/main/logo.png" alt="CROUStillant Logo"/>
   
 # CROUStillant .github
 CROUStillant est un projet qui a pour but de fournir les menus des restaurants universitaires en France et en Outre-Mer. 
