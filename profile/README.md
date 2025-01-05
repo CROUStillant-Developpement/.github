@@ -47,7 +47,7 @@ Créé par des étudiants, pour des étudiants. Le but de CROUStillant est de fo
 
 CROUStillant récupère les menus des restaurants universitaires en France et en Outre-Mer, stocke les données puis les rend accessibles via une API, un site internet et un Bot Discord.
 
-<img src="../assets/structure.png" alt="CROUStillant Structure"/>
+<img src="https://raw.githubusercontent.com/CROUStillant-Developpement/CROUStillantAssets/main/structure.png" alt="CROUStillant Structure"/>
 
 # 📑 • Liens
 
