@@ -11,6 +11,7 @@ CROUStillant est un projet qui a pour but de fournir les menus des restaurants u
 - [🚀 • Présentation](#--présentation)
     - [📜 • Description](#--description)
     - [📦 • Mais pourquoi CROUStillant ?](#--mais-pourquoi-croustillant-)
+    - [📊 • Quelques statistiques !](#--quelques-statistiques-)
     - [📚 • Comment ça marche ?](#--comment-ça-marche-)
 - [📑 • Liens](#--liens)
 - [📃 • Crédits](#--crédits)
