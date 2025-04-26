@@ -55,10 +55,16 @@ CROUStillant récupère les menus des restaurants universitaires en France et en
 - [API](https://api-croustillant.bayfield.dev)
 - [Site Web](https://croustillant.bayfield.dev)
 - [Bot Discord](https://discord.com/oauth2/authorize?client_id=1024564077068025867)
-
+- [GitHub](https://github.com/CROUStillant-Developpement)
+  
+Vous pouvez aussi nous retrouver directement sur data.gouv.fr : [API CROUStillant sur data.gouv.fr](https://www.data.gouv.fr/fr/dataservices/api-croustillant/) & le [site CROUStillant sur data.gouv.fr](https://www.data.gouv.fr/fr/reuses/croustillant/).  
+  
+Vous pouvez venir discuter avec nous sur notre serveur Discord : [Serveur Discord CROUStillant](https://discord.gg/yG6FjqbWtk).
+  
 # 📃 • Crédits
 
 Ce projet est le fruit d'une collaboration entre plusieurs étudiants de l'Université de Reims Champagne-Ardenne :
 - [Paul Bayfield](https://github.com/PaulBayfield) - Fondateur du projet et développeur principal
 - [Adlen Cherif](https://github.com/cherifad) - Développeur web, concepteur de l'interface utilisateur
 - [Lucas Debeve](https://github.com/lucasDebeve) - Pro de la conception des bases de données, à l'origine de la base de données de CROUStillant
+- [Louis Descotes](https://github.com/louisdescotes) - Développeur web, à l'origine de la page d'accueil du site de CROUStillant
